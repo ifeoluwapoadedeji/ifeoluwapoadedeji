@@ -17,4 +17,4 @@
 
  
 [x]: https://x.com/
-[linkedin]: https://linkedin.com/in/ife-adedeji/
+[linkedin]: (https://linkedin.com/in/ife-adedeji/)
