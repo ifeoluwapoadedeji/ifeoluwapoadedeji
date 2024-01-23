@@ -12,9 +12,9 @@
 <h2> 🤳 Connect with me:</h2>
  
 
-<img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[<img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
+[<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
  
-[x]: https://x.com/
-[linkedin]: (https://linkedin.com/in/ife-adedeji/)
+[x]: https://www.x.com/
+[linkedin]: https://linkedin.com/in/ife-adedeji/
