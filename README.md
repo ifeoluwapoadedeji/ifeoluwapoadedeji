@@ -14,6 +14,7 @@
   - [Qualys Scanning Strategies and Best Practices](Link)
   - [Qualys Web Application Scanning](Link)
   - [Qualys PCI Compliance](Link)
+  - [Qualys Policy Compliance](Link)
     
 <h2> 🤳 Connect with me:</h2>
  
