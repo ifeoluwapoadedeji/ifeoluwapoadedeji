@@ -15,6 +15,7 @@
   - [Qualys Web Application Scanning](Link)
   - [Qualys PCI Compliance](Link)
   - [Qualys Policy Compliance](Link)
+  - [Security Blue Team Introduction to Vulnerability Management](Link)
     
 <h2> 🤳 Connect with me:</h2>
  
