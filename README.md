@@ -7,7 +7,7 @@
   
 <h2>📜 Certifications:</h2>
  
-  - [Qualys CyberSecurity Asset Management (CSAM)](google.com)
+  - [Qualys CyberSecurity Asset Management (CSAM)](Link)(google.com)
   - [Qualys Patch Management](Link)
   - [Qualys Vulnerability Management Detection & Response(VMDR)](Link)
   - [Qualys Reporting Strategies and Best Practices](Link)
