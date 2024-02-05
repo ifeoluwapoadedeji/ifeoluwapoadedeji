@@ -9,7 +9,7 @@
  
   - [Qualys CyberSecurity Asset Management (CSAM)](Link)
   - [Qualys Patch Management](Link)
-  - [Qualys Vulnerability Management Detection & Response(VMDR)](https://gm1.geolearning.com/geonext/qualys/coursesummary.CourseCatalog.geo?id=22508393671)
+  - [Qualys Vulnerability Management Detection & Response(VMDR)](Link)
   - [Qualys Reporting Strategies and Best Practices](Link)
   - [Qualys Scanning Strategies and Best Practices](Link)
   - [Qualys Web Application Scanning](Link)
@@ -17,12 +17,4 @@
   - [Qualys Policy Compliance](Link)
   - [Security Blue Team Introduction to Vulnerability Management](Link)
     
-<h2> 🤳 Connect with me:</h2>
- 
-
-[<img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][x]
-[<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
- 
-[x]: https://www.x.com/
-[linkedin]: https://linkedin.com/in/ife-adedeji/
+<h2>🤳 Connect with me: <a href="https://www.x.com/"><img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> <a href="https://linkedin.com/in/ife-adedeji/"><img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></h2>
