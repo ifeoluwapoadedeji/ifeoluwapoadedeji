@@ -24,9 +24,9 @@
 </a>
 
 <h2 style="display: inline;">🤳 Connect with me:</h2>
-<a href="https://www.x.com/" style="display: inline-block; padding: 0 5px; background-color: blue;">
+<a href="https://www.x.com/" style="display: inline-block; padding: 0 5px; background-color: yellow;">
   <img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/ife-adedeji/" style="display: inline-block; padding: 0 5px; background-color: blue;">
+<a href="https://linkedin.com/in/ife-adedeji/" style="display: inline-block; padding: 0 5px; background-color: purple;">
   <img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
