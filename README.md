@@ -18,7 +18,5 @@
   - [Security Blue Team Introduction to Vulnerability Management](Link)
     
 <h2>🤳 Connect with me:</h2>
-<div style="display: flex; align-items: center;">
-  <a href="https://www.x.com/"><img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-  <a href="https://linkedin.com/in/ife-adedeji/"><img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-</div>
+<a href="https://www.x.com/"><img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://linkedin.com/in/ife-adedeji/"><img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
