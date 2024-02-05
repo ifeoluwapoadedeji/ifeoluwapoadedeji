@@ -7,7 +7,7 @@
   
 <h2>📜 Certifications:</h2>
  
-  - [Qualys CyberSecurity Asset Management (CSAM)](file:///C:/Users/Ife/Downloads/coursecompletion%20(2).pdf)
+  - [Qualys CyberSecurity Asset Management (CSAM)](Link)
   - [Qualys Patch Management](Link)
   - [Qualys Vulnerability Management Detection & Response(VMDR)](Link)
   - [Qualys Reporting Strategies and Best Practices](Link)
@@ -16,6 +16,7 @@
   - [Qualys PCI Compliance](Link)
   - [Qualys Policy Compliance](Link)
   - [Security Blue Team Introduction to Vulnerability Management](Link)
+  - <p>Qualys CyberSecurity Asset Management (CSAM)<a href="file:///C:/Users/Ife/Downloads/coursecompletion%20(2).pdf" target="_blank" rel="noopener noreferrer"> (Link)</a></p>
     
 <h2 style="display: inline;">🤳 Connect with me:</h2>
 <a href="https://www.x.com/"><img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
