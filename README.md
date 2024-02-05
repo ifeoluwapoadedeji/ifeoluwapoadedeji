@@ -17,4 +17,5 @@
   - [Qualys Policy Compliance](Link)
   - [Security Blue Team Introduction to Vulnerability Management](Link)
     
-<h2>🤳 Connect with me: <a href="https://www.x.com/"><img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> <a href="https://linkedin.com/in/ife-adedeji/"><img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></h2>
+<h2>🤳 Connect with me: 
+ <a href="https://www.x.com/"><img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> <a href="https://linkedin.com/in/ife-adedeji/"><img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></h2>
