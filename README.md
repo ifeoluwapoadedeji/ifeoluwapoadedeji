@@ -9,7 +9,7 @@
  
   - [Qualys CyberSecurity Asset Management (CSAM)](Link)
   - [Qualys Patch Management](Link)
-  - [Qualys Vulnerability Management Detection & Response(VMDR)]([Link](https://gm1.geolearning.com/geonext/qualys/coursesummary.CourseCatalog.geo?id=22508393671))
+  - [Qualys Vulnerability Management Detection & Response(VMDR)](https://gm1.geolearning.com/geonext/qualys/coursesummary.CourseCatalog.geo?id=22508393671)
   - [Qualys Reporting Strategies and Best Practices](Link)
   - [Qualys Scanning Strategies and Best Practices](Link)
   - [Qualys Web Application Scanning](Link)
