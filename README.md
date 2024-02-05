@@ -15,7 +15,7 @@
   - [Qualys Web Application Scanning](Link)
   - [Qualys PCI Compliance](Link)
   - [Qualys Policy Compliance](Link)
-  - [Security Blue Team Introduction to Vulnerability Management](file:///C:/Users/Ife/Downloads/Introduction%20to%20Vulnerability%20Management-course.pdf)
+  - [Security Blue Team Introduction to Vulnerability Management]
     
 <h2 style="display: inline;">🤳 Connect with me:</h2>
 <a href="https://www.x.com/"><img align="left" alt="yourname | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
