@@ -3,8 +3,9 @@
 <h2>🛡️ Information Security Projects</h2>
  
 - [Creating a Honeynet](Link)
-- [Microsoft Sentinel](Link)
-  
+- [KQL Alrets for Microsoft Sentinel](Link)
+- [Incident Response in Microsoft Sentinel](Link)
+
 <h2>📜 Certifications/Certificates:</h2>
  
   - [Qualys CyberSecurity Asset Management (CSAM)](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20CSAM%20(1).pdf)
