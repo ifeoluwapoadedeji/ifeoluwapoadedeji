@@ -5,6 +5,7 @@
 - [Creating a Honeynet](Link)
 - [KQL Alrets for Microsoft Sentinel](Link)
 - [Incident Response in Microsoft Sentinel](Link)
+- [Azure Environment BEFORE Securing AND then AFTER]([Link](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/Azure%20Environment%20BEFORE%20Securing%20AND%20then%20AFTER%20(version%201).xlsx))
 
 <h2>📜 Certifications/Certificates:</h2>
  
