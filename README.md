@@ -22,6 +22,6 @@
 <h2 style="display: inline;">🤳 Connect with me:</h2>
 <a href="https://twitter.com/adedeji_i2213"><img align="left" alt="yourname | Twitter" width="102px" src="https://vectorified.com/images/twitter-icon-black-34.jpg" /></a>
 <a href="https://linkedin.com/in/ife-adedeji/" style="color: #0077B5; border: 1px solid #0077B5;">
-  <img align="left" alt="yourname | LinkedIn" width="102px" src="https://tse2.mm.bing.net/th?id=OIP.0rJZ6VFPpfFXkMh8sjoEEQHaHa&pid=Api&P=0&h=220" />
+  <img align="left" alt="yourname | LinkedIn" width="102px" src="https://pngmind.com/wp-content/uploads/2019/08/Linkedin-Logo-Png-Transparent-Background-1.png" />
 </a>
 
