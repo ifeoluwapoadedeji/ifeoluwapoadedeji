@@ -20,7 +20,7 @@
   - [Security Blue Team Introduction to Vulnerability Management](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/Introduction%20to%20Vulnerability%20Management-course.pdf)
     
 <h2 style="display: inline;">🤳 Connect with me:</h2>
-<a href="https://twitter.com/adedeji_i2213"><img align="left" alt="yourname | Twitter" width="102px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://twitter.com/adedeji_i2213"><img align="left" alt="yourname | Twitter" width="102px" src="https://vectorified.com/images/twitter-icon-black-34.jpg" /></a>
 <a href="https://linkedin.com/in/ife-adedeji/" style="color: #0077B5; border: 1px solid #0077B5;">
   <img align="left" alt="yourname | LinkedIn" width="102px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
