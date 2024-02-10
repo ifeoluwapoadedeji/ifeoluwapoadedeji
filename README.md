@@ -7,6 +7,7 @@
 - [Incident Response in Microsoft Sentinel](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/Incident%20Response%20in%20Microsoft%20Sentinel%206f0eb6184ba04cae92055fa0ec22d567.md)
 - [Azure Environment BEFORE Securing AND then AFTER](Link)
 - [Workbooks List in Microsoft Sentinel](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/Workbooks%2026e3b15b4e7441279f9466a130691d01.md)
+- [Creating OpenVas on Microsoft Azure](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/OpenVAS%20ea50d5bcbead4708827f2d89ddcd3ffd.md)
 
 <h2>📜 Certifications/Certificates:</h2>
  
