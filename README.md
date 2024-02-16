@@ -6,7 +6,7 @@
 - [KQL Alerts for Microsoft Sentinel](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/KQL%20Alerts%20for%20Microsoft%20Senteniel%208ccd6fd62bc04d01854d713be641c65f.md)
 - [Incident Response in Microsoft Sentinel](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/Incident%20Response%20in%20Microsoft%20Sentinel%206f0eb6184ba04cae92055fa0ec22d567.md)
 - [Azure Environment BEFORE Securing AND then AFTER](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/Azure%20Environment%20BEFORE%20Securing%20AND%20then%20AFTER%20a7b5a7d157a8409d9bf0897c9a379a40.md)
-- [Workbooks List in Microsoft Sentinel](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/Workbooks%2026e3b15b4e7441279f9466a130691d01.md)
+- [Threat Intelligence Workbooksl](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/Workbooks%2026e3b15b4e7441279f9466a130691d01.md)
 - [Creating OpenVas on Microsoft Azure](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/OpenVAS%20ea50d5bcbead4708827f2d89ddcd3ffd.md)
 
 <h2>📜 Certifications/Certificates:</h2>
