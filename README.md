@@ -2,7 +2,7 @@
  
 <h2>🛡️ Information Security Projects</h2>
  
-- [Azure Honeynet](Link)
+- [Azure Honeynet](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/Azure%20Honeynet%20936b79dcde644c74ae5e9277e9de63b7.md)
 - [KQL Alerts for Microsoft Sentinel](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/KQL%20Alerts%20for%20Microsoft%20Senteniel%208ccd6fd62bc04d01854d713be641c65f.md)
 - [Incident Response in Microsoft Sentinel](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/Incident%20Response%20in%20Microsoft%20Sentinel%206f0eb6184ba04cae92055fa0ec22d567.md)
 - [24 Hour Azure Environment Cleanup](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/Azure%20Environment%20BEFORE%20Securing%20AND%20then%20AFTER%20a7b5a7d157a8409d9bf0897c9a379a40.md)
