@@ -20,6 +20,7 @@
   - [Qualys PCI Compliance](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20PCI%20Compliance%20(3).pdf)
   - [Qualys Policy Compliance](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20%20Policy%20Compliance(3).pdf)
   - [Security Blue Team Introduction to Vulnerability Management](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/Introduction%20to%20Vulnerability%20Management-course.pdf)
+  - [Fortinet FortiGate Operator](https://github.com/ifeoluwapoadedeji/pictures/blob/main/Course_Completion_Certificate.pdf)
     
 <h2 style="display: inline;">🤳 Connect with me:</h2>
 <a href="https://twitter.com/adedeji_i2213"><img align="left" alt="yourname | Twitter" width="52px" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" /></a>
