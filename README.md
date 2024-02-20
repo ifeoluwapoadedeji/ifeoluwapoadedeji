@@ -8,6 +8,7 @@
 - [24 Hour Azure Environment Cleanup](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/Azure%20Environment%20BEFORE%20Securing%20AND%20then%20AFTER%20a7b5a7d157a8409d9bf0897c9a379a40.md)
 - [Threat Intelligence Workbooks](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/Workbooks%2026e3b15b4e7441279f9466a130691d01.md)
 - [OpenVas with Azure](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/OpenVAS%20ea50d5bcbead4708827f2d89ddcd3ffd.md)
+- [Users and Permissions Report](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/Users%207c2c70e416eb4617824c1a0764e97b5b.md)
 
 <h2>📜 Certifications/Certificates:</h2>
  
