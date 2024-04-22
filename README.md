@@ -23,7 +23,7 @@
   - [Security Blue Team Introduction to Vulnerability Management](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/Introduction%20to%20Vulnerability%20Management-course.pdf)
   - [Fortinet FortiGate Operator](https://github.com/ifeoluwapoadedeji/pictures/blob/main/Course_Completion_Certificate.pdf)
   - [Udemy REST (API) NOW!](https://github.com/ifeoluwapoadedeji/pictures/blob/main/UC-8adb653b-5db2-484f-81c4-45a3d68cfe2d.pdf)
-  - [API Security Fundamentals](https://github.com/ifeoluwapoadedeji/pictures/blob/main/APIsecCourseCertificate20240330-29-63ss0x.pdf)
+  - [APISec University API Security Fundamentals](https://github.com/ifeoluwapoadedeji/pictures/blob/main/APIsecCourseCertificate20240330-29-63ss0x.pdf)
     
 <h2 style="display: inline;">🤳 Connect with me:</h2>
 <a href="https://twitter.com/adedeji_i2213"><img align="left" alt="yourname | Twitter" width="52px" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" /></a>
