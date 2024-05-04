@@ -11,7 +11,8 @@
 - [Users and Permissions Report](https://github.com/ifeoluwapoadedeji/Azure-Projects/blob/main/Users%207c2c70e416eb4617824c1a0764e97b5b.md)
 
 <h2>📜 Certifications/Certificates:</h2>
- 
+
+  - [CompTIA Network+](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf)
   - [Qualys CyberSecurity Asset Management (CSAM)](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20CSAM%20(1).pdf)
   - [Qualys Patch Management](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20Patch%20Management%20(2).pdf)
   - [Qualys Vulnerability Management Detection & Response(VMDR)](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion.pdf)
