@@ -25,6 +25,7 @@
   - [Fortinet FortiGate Operator](https://github.com/ifeoluwapoadedeji/pictures/blob/main/Course_Completion_Certificate.pdf)
   - [Udemy REST (API) NOW!](https://github.com/ifeoluwapoadedeji/pictures/blob/main/UC-8adb653b-5db2-484f-81c4-45a3d68cfe2d.pdf)
   - [APISec University API Security Fundamentals](https://github.com/ifeoluwapoadedeji/pictures/blob/main/APIsecCourseCertificate20240330-29-63ss0x.pdf)
+  - [Cisco Networking Basics](https://www.credly.com/earner/earned/badge/e7b27f1a-0146-4630-9bff-f71296cbe666)
     
 <h2 style="display: inline;">🤳 Connect with me:</h2>
 <a href="https://twitter.com/adedeji_i2213"><img align="left" alt="yourname | Twitter" width="52px" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" /></a>
