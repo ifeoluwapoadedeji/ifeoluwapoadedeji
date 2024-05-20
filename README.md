@@ -27,6 +27,7 @@
   - [APISec University API Security Fundamentals](https://github.com/ifeoluwapoadedeji/pictures/blob/main/APIsecCourseCertificate20240330-29-63ss0x.pdf)
   - [Cisco Networking Basics](https://github.com/ifeoluwapoadedeji/pictures/blob/main/Networking_Basics_Badge20240510-8-63h8ve.pdf)
   - [Introduction to AWS Identity and Access Management(IAM)](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/5217408_1715453078.pdf)
+  - [Intro to Splunk](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/Certificate.pdf)
     
 <h2 style="display: inline;">🤳 Connect with me:</h2>
 <a href="https://twitter.com/adedeji_i2213"><img align="left" alt="yourname | Twitter" width="52px" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" /></a>
