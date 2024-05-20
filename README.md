@@ -12,7 +12,12 @@
 
 <h2>📜 Certifications/Certificates:</h2>
 
+<h3>📜 Network and Networking Basics:</h3>
+
   - [CompTIA Network+](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf)
+  - [Cisco Networking Basics](https://github.com/ifeoluwapoadedeji/pictures/blob/main/Networking_Basics_Badge20240510-8-63h8ve.pdf)
+
+    
   - [Qualys CyberSecurity Asset Management (CSAM)](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20CSAM%20(1).pdf)
   - [Qualys Patch Management](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20Patch%20Management%20(2).pdf)
   - [Qualys Vulnerability Management Detection & Response(VMDR)](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion.pdf)
@@ -25,7 +30,6 @@
   - [Fortinet FortiGate Operator](https://github.com/ifeoluwapoadedeji/pictures/blob/main/Course_Completion_Certificate.pdf)
   - [Udemy REST (API) NOW!](https://github.com/ifeoluwapoadedeji/pictures/blob/main/UC-8adb653b-5db2-484f-81c4-45a3d68cfe2d.pdf)
   - [APISec University API Security Fundamentals](https://github.com/ifeoluwapoadedeji/pictures/blob/main/APIsecCourseCertificate20240330-29-63ss0x.pdf)
-  - [Cisco Networking Basics](https://github.com/ifeoluwapoadedeji/pictures/blob/main/Networking_Basics_Badge20240510-8-63h8ve.pdf)
   - [Introduction to AWS Identity and Access Management(IAM)](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/5217408_1715453078.pdf)
   - [Intro to Splunk](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/Certificate.pdf)
     
