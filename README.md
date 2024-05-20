@@ -12,7 +12,7 @@
 
 <h2>📜 Certifications/Certificates:</h2>
 
-<h3>📜 Network and Networking Basics:</h3>
+<h4> Network and Networking Basics:</h4>
 
   - [CompTIA Network+](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf)
   - [Cisco Networking Basics](https://github.com/ifeoluwapoadedeji/pictures/blob/main/Networking_Basics_Badge20240510-8-63h8ve.pdf)
