@@ -25,11 +25,13 @@
   - [Security Blue Team Introduction to Vulnerability Management](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/Introduction%20to%20Vulnerability%20Management-course.pdf)
 
 <h4> Web and API Security:</h4>
+
   - [Qualys Web Application Scanning](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20Web%20Application.pdf)
   - [Udemy REST (API) NOW!](https://github.com/ifeoluwapoadedeji/pictures/blob/main/UC-8adb653b-5db2-484f-81c4-45a3d68cfe2d.pdf)
   - [APISec University API Security Fundamentals](https://github.com/ifeoluwapoadedeji/pictures/blob/main/APIsecCourseCertificate20240330-29-63ss0x.pdf)
 
 <h4> Security Compliance and Policies:</h4>
+
   - [Qualys PCI Compliance](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20PCI%20Compliance%20(3).pdf)
   - [Qualys Policy Compliance](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20%20Policy%20Compliance(3).pdf)
 
