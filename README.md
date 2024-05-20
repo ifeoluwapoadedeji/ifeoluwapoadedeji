@@ -17,20 +17,37 @@
   - [CompTIA Network+](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf)
   - [Cisco Networking Basics](https://github.com/ifeoluwapoadedeji/pictures/blob/main/Networking_Basics_Badge20240510-8-63h8ve.pdf)
 
-    
+ <h4> Vulnerability and Patch Management:</h4>
+   
   - [Qualys CyberSecurity Asset Management (CSAM)](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20CSAM%20(1).pdf)
   - [Qualys Patch Management](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20Patch%20Management%20(2).pdf)
   - [Qualys Vulnerability Management Detection & Response(VMDR)](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion.pdf)
-  - [Qualys Reporting Strategies and Best Practices](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20Reporting%20(2).pdf)
-  - [Qualys Scanning Strategies and Best Practices](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20Scanning%20(1).pdf)
-  - [Qualys Web Application Scanning](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20Web%20Application.pdf)
-  - [Qualys PCI Compliance](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20PCI%20Compliance%20(3).pdf)
-  - [Qualys Policy Compliance](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20%20Policy%20Compliance(3).pdf)
   - [Security Blue Team Introduction to Vulnerability Management](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/Introduction%20to%20Vulnerability%20Management-course.pdf)
-  - [Fortinet FortiGate Operator](https://github.com/ifeoluwapoadedeji/pictures/blob/main/Course_Completion_Certificate.pdf)
+
+<h4> Web and API Security:</h4>
+  - [Qualys Web Application Scanning](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20Web%20Application.pdf)
   - [Udemy REST (API) NOW!](https://github.com/ifeoluwapoadedeji/pictures/blob/main/UC-8adb653b-5db2-484f-81c4-45a3d68cfe2d.pdf)
   - [APISec University API Security Fundamentals](https://github.com/ifeoluwapoadedeji/pictures/blob/main/APIsecCourseCertificate20240330-29-63ss0x.pdf)
+
+<h4> Security Compliance and Policies:</h4>
+  - [Qualys PCI Compliance](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20PCI%20Compliance%20(3).pdf)
+  - [Qualys Policy Compliance](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20%20Policy%20Compliance(3).pdf)
+
+  <h4> Identity and Access Management:</h4>
+  
   - [Introduction to AWS Identity and Access Management(IAM)](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/5217408_1715453078.pdf)
+
+  <h4> Reporting and Scanning Strategies:</h4>
+
+  - [Qualys Reporting Strategies and Best Practices](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20Reporting%20(2).pdf)
+  - [Qualys Scanning Strategies and Best Practices](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20Scanning%20(1).pdf)
+
+<h4> Security Appliance Operations:</h4>
+
+  - [Fortinet FortiGate Operator](https://github.com/ifeoluwapoadedeji/pictures/blob/main/Course_Completion_Certificate.pdf)
+    
+<h4> Security Information and Event Management (SIEM):</h4>
+
   - [Intro to Splunk](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/Certificate.pdf)
     
 <h2 style="display: inline;">🤳 Connect with me:</h2>
