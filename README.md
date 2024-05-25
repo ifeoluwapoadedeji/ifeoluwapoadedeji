@@ -34,6 +34,7 @@
 
   - [Qualys PCI Compliance](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20PCI%20Compliance%20(3).pdf)
   - [Qualys Policy Compliance](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/coursecompletion%20%20Policy%20Compliance(3).pdf)
+  - [Cyber Threat Intelligence 101](https://github.com/ifeoluwapoadedeji/Qualifications/blob/main/859ef7ff8dc7c5d5d6515e4400f3af6787a9a95a.pdf)
 
   <h4> Identity and Access Management:</h4>
   
