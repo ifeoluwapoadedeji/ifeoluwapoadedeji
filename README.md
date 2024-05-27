@@ -47,7 +47,7 @@
 
 <h4> Security Appliance Operations:</h4>
 
-  - [Fortinet FortiGate Operator](https://github.com/ifeoluwapoadedeji/pictures/blob/main/Course_Completion_Certificate.pdf)
+  - [Fortinet Certified Assosiate (FCA): FortiGate 7.4 Operator](https://github.com/ifeoluwapoadedeji/pictures/blob/main/Course_Completion_Certificate.pdf)
     
 <h4> Security Information and Event Management (SIEM):</h4>
 
